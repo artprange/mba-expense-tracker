@@ -31,6 +31,14 @@
       "type": "income",
       "createdAt": "2024-07-19T19:26:34.754Z",
       "id": 4
+    },{
+      "description": "Desenvolvimento de site",
+      "price": 6000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-07-20T19:26:34.754Z",
+      "id": 5
     }
+
   ]
 }

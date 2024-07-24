@@ -1,30 +1,72 @@
-# React + TypeScript + Vite
+# Pomodoro timer :brazil: / :uk:
+:uk:
+## Welcome to Pomodoro timer!
+This project is intended to advance in React, adding other libraries such as:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+      styled components
+      react router dom
+      forms
+      react hook form
+      use effect
+      prop drilling
+      contexts
+      route context
+      reducers
 
-Currently, two official plugins are available:
+### the application is a custom timer. you can:
+      set a custom task you want to work on and add a timer to it
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Getting started
+ After cloning the rep:
+  
+###  installing dependencies:
+        npm i
 
-## Expanding the ESLint configuration
+###  running the vite project:
+          npm run dev
+          
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+###  the project will run at port 5173:
+          http://localhost:5173  
+### you can also crtl+click on the link on the terminal:
+![image](https://github.com/user-attachments/assets/964977bd-2abf-49c0-ba72-7e4650f9d2cc)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+
+
+:brazil:
+## Bem vindo ao pomodoro timer!
+
+
+O presente projeto tem o intuito de avançar em React. Desenvolvi um timer estilo pomodoro com as bibliotecas:
+          styled components
+          react router dom
+          forms
+          react hook form
+          use effect
+          prop drilling
+          contexts
+          route context
+          reducers
+
+
+### nesta aplicação você pode:
+      setar uma tarefa em que quer trabalhar e adicionar um timer para trabalhar nela.
+
+
+# Começando
+Depois de clonar o rep:
+  
+###  instalando dependêcnias
+        npm i
+
+###  executando o projeto:
+          npm run dev  
+###  o projeto será inicializado na porta 5173:
+          http://localhost:5173  
+### você também pode usar crtl+click no endereço que aparece em seu terminal:
+![image](https://github.com/user-attachments/assets/964977bd-2abf-49c0-ba72-7e4650f9d2cc)
+

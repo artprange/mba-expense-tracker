@@ -1,4 +1,4 @@
-# Pomodoro timer :brazil: / :uk:
+# Expense tracker! :brazil: / :uk:
 :uk:
 ## Welcome to Pomodoro timer!
 This project is intended to advance in React, adding other libraries such as:
